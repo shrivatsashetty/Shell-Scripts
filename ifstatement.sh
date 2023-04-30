@@ -9,11 +9,3 @@ echo "Entered number is even"
 else
 echo "Entered number is odd"
 fi
-echo "Enter a number b/w 1-10"
-read -r num
-if [ "$num " -le 10 ] # its good to enclose variables in ""
-then
-echo "Correct input"
-else 
-echo "Wrong input"
-fi
