@@ -1,6 +1,7 @@
+#! /bin/bash
 # shell program to add two numbers
 echo "Enter a number "
-read a
+read -r a
 echo "Enter another number"
-read b
+read -r b
 echo "$a + $b = $((a+b))"

@@ -7,3 +7,4 @@ echo "this is Double quote $VAR1 $TEST "
 echo "this is a single quote $VAR1 $TEST"
 #REVERSE QUOTE / back tick
 echo "this host(computer) name is :$(hostname)"
+echo "Listing files in the directory $(ls)"

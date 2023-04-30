@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # illustration of arithmetic operators
 echo "ARITHMETIC OPERATIONS"
 echo ""
