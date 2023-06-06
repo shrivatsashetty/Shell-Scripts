@@ -1,4 +1,5 @@
 #! /bin/bash
+
 VAR1=123456
 TEST="RVCEMCA"
 #DOUBLE QUOTES
